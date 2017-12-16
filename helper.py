@@ -3,8 +3,8 @@
 """ uploader helper for KindleEar <https://github.com/cdhigh/KindleEar>
 It will modify AppId and some other items for you automatically.
 Configure file 'custom.txt' format (encoding of the file must be ascii):
-application: YourAppId
-email: YourEmail
+application: kindleus233
+email: bailongctui@gmail.com
 timezone: 8
 If it not exist, this script will create it in same directory of __file__.
 """
