@@ -1,4 +1,4 @@
-application:  feedly4kindle
+application:  kindleus233
 module: worker
 version: 1
 runtime: python27
